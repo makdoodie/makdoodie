@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">hey, i'm makdoodie</h1>
+<h3 align="center">compsci student</h3>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=makdoodie&show_icons=true&locale=en&theme=tokyonight" alt="makdoodie"/>
 
 <!--
 **makdoodie/makdoodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,7 +26,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-With a solid background in computer science from the University of South Florida, I'm enthusiastic about the world of tech. My proficiency lies in C++ and Python, but I harbor a passion for cybersecurity. Currently, I'm working my way towards earning the Security+ certification from CompTIA. If you're into all things tech, I'd love to connect!
+With a robust foundation in computer science from the University of South Florida, my journey in the tech world has been driven by a passion for innovation and efficiency. My skills are deeply rooted in C++ and Python. As I continue to expand my expertise, I'm eager to connect with fellow tech enthusiasts who share a fascination for seamless and agile technology solutions.
 
 ---
 
@@ -34,7 +34,7 @@ With a solid background in computer science from the University of South Florida
 
 - **Operating Systems**: Android & IOS, Windows Server, OS X, Linux
 - **Technologies/Environments**: Visual Studio, Jira, SQLite, Git
-- **Programming Languages**: Python, C, C++, HTML, CSS, Assembly
+- **Programming Languages**: Python, C, C++
 
 ---
 

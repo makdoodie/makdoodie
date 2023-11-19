@@ -20,9 +20,6 @@
 - **B.S. in Computer Science**<br>
   University of South Florida, Expected Dec 2024
 
-- **Security+ (In Progress)**<br>
-  CompTIA, Expected Nov 2023
-
 - **Web Development Specialist**<br>
   University of South Florida, Aug 2021
 

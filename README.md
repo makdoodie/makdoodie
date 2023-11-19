@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mahmood Sales (aka makdoodie)</h1>
-<h3 align="center">B.S. in Computer Science | Cybersecurity Enthusiast | Developer</h3>
+<h3 align="center">B.S. in Computer Science | Tech Innovator | DevOps & Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/makdoodie">GitHub</a> •
@@ -40,9 +40,8 @@ With a robust foundation in computer science from the University of South Florid
 
 ### 🌱 Currently Learning
 
-- **Basic Cryptography**: Diving into the fundamentals of encryption and security.
-- **Windows Form Applications**: Exploring GUI-based apps development in Visual Studio.
-- **CTF Challenges on Hack The Box**: Enhancing cybersecurity skills and understanding various scenarios through challenges on Hack The Box.
+- **Windows Form Applications**: Exploring and Developing GUI-based apps development in Visual Studio.
+- **CTF Challenges on Hack The Box**: Deepening my understanding of Linux systems and server management through practical scenarios and challenges on Hack The Box. 
 
 ---
 

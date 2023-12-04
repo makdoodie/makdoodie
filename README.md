@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mahmood Sales (aka makdoodie)</h1>
-<h3 align="center">B.S. in Computer Science | Tech Innovator | DevOps & Software Developer</h3>
+<h3 align="center">B.S. in Computer Science | Tech Innovator | Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/makdoodie">GitHub</a> •
@@ -34,7 +34,7 @@ With a robust foundation in computer science from the University of South Florid
 
 - **Operating Systems**: Android & IOS, Windows Server, OS X, Linux
 - **Technologies/Environments**: Visual Studio, Jira, SQLite, Git
-- **Programming Languages**: Python, C, C++
+- **Programming Languages**: Python, C++, C#
 
 ---
 

@@ -46,5 +46,5 @@ With a robust foundation in computer science from the University of South Florid
 ---
 
 <p align="center">
-  ❤️ Thanks for visiting! Feel free to <a href="mailto:mahmoodsales2002@gmail.com">reach out</a>, collaborate, or just chat about tech.
+  ❤️ Thanks for visiting! Feel free to <a href="mailto:msales_sec@proton.me">reach out</a>, collaborate, or just chat about tech.
 </p>

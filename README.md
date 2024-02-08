@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  📍 <strong>Location:</strong> Tampa, FL, U.S. 🇺🇸
+  📍 <strong>Location:</strong> Tampa, FL, U.S.
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=makdoodie&show_icons=true&locale=en&theme=tokyonight" alt="makdoodie"/>
